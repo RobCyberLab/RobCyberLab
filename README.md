@@ -1,4 +1,4 @@
-👋 Hi, I’m Robert                                                                       
+👋 Hi, I’m Robert (Robbs shortly)                                                                       
 🔐 I’m passionate about cybersecurity and constantly exploring new ways to protect data and systems.  
 👀 I’m interested in cryptography, ethical hacking, penetration testing, blockchain, and building security-focused applications.  
 🌱 I’m currently learning about cryptomonetization and blockchain, expanding my knowledge in these exciting areas.  
